@@ -1,0 +1,2 @@
+karena file model saya memiliki ukuran diatas 100mb, jadi untuk model saya taruh di google drive agar bisa di download
+
